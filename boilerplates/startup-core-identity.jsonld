@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Brand",
+  "name": "SloganList Example Brand",
+  "slogan": "Securing Brand Semantics for the AI Era.",
+  "url": "https://www.sloganlist.com",
+  "description": "This is a base boilerplate for startup entities to ensure their initial GEO presence.",
+  "sameAs": [
+    "https://biz.sloganlist.com"
+  ]
+}
